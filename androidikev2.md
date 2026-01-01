@@ -45,7 +45,7 @@ Password
 سپس گزینه زیر را باز کنید:  
 `Show advanced settings`
 
-Server Identity  
+Server Identity در بخش متن پایین رو کپی کنین
 `pointtoserver.com`
 
 ---
@@ -54,5 +54,4 @@ Server Identity
 ابتدا بزنید:  
 `Save`
 
-سپس بزنید:  
-`Connect`
+سپس روی اسم کانفیگی که ساختین بزنید Connect سبز بشه وصل میشین
