@@ -46,6 +46,7 @@ Password
 `Show advanced settings`
 
 Server Identity در بخش متن پایین رو کپی کنین
+
 `pointtoserver.com`
 
 ---
