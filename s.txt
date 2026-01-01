@@ -1,1 +1,0 @@
-vless://7bcdc307-e30a-4dd5-b13b-ec32ae055098@13.33.243.77:80?path=%2Fws&security=none&encryption=none&host=d1ibda8c7xvsbz.cloudfront.net&type=ws#Aleph_Magic_13.33.243.77_80
