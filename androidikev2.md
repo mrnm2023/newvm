@@ -45,7 +45,7 @@ Password
 سپس گزینه زیر را باز کنید:  
 `Show advanced settings`
 
-Server Identity در بخش متن پایین رو کپی کنین
+ در بخش (Server Identity) متن پایین رو کپی کنین
 
 `pointtoserver.com`
 
